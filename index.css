@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   
+    background-image: url(28433ba9e0c656589743f101497ef726.jpg);
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size: 100%, 100%;
+}
+#first{
+    margin-top: 150px;
+    margin-left: 300px;
+   
+}
+
+.btn{
+    background-color: beige;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-top: 20px;
+    width: 300px;
+    padding: 6px;
+    display: inline-block;
+    font-size: large;
+    /* font-size: 5px; */
+}
+.btn:hover{
+    color: gray;
+}
